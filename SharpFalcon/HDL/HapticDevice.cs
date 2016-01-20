@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using SharpFalcon.HDL.Native;
-using Microsoft.Xna.Framework;
 using System.Runtime.InteropServices;
 
 namespace SharpFalcon.HDL
